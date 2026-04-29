@@ -1,4 +1,4 @@
-Deadline ESP + Chams Made By: gabriukas dc
+Deadline ESP + Chams
 
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
